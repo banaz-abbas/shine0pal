@@ -1,0 +1,29 @@
+<div class="product-card">
+        <div class="product-image">
+            <img src="https://images.unsplash.com/photo-1542838687-6bb062b272db?auto=format&fit=crop&w=400&q=80" alt="منتج 2" />
+        </div>
+        <div class="product-info">
+            <h3>أيشادو براق</h3>
+            <p>ألوان عصرية ومميزة</p>
+            <button class="btn-buy">اشتري الآن</button>
+        </div>
+    </div>
+
+    <div class="product-card">
+        <div class="product-image">
+            <img src="https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=crop&w=400&q=80" alt="منتج 3" />
+        </div>
+        <div class="product-info">
+            <h3>كريم أساس</h3>
+            <p>غطاء مثالي لبشرة ناعمة</p>
+            <button class="btn-buy">اشتري الآن</button>
+        </div>
+    </div>
+</section>
+
+<footer>
+    جميع الحقوق محفوظة © Shine0Pal 2025 | تواصل معنا: info@shine0pal.com
+</footer>
+
+</body>
+</html>
